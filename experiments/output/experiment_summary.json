@@ -1,0 +1,22 @@
+{
+  "params": {
+    "N": 64,
+    "L": 40.0,
+    "center": [
+      0.0,
+      0.0
+    ],
+    "R": 20.0,
+    "iters": 600,
+    "omega": 0.8,
+    "b": 1.0,
+    "k0": 0.25,
+    "kmin": 0.005
+  },
+  "interface_nodes": 128,
+  "free_nodes": 3841,
+  "max_displacement": 6.377960444871171,
+  "mean_displacement": 3.2661536789212486,
+  "min_stiffness": 0.005952380952380952,
+  "max_stiffness": 0.25
+}
